@@ -46,7 +46,7 @@ If you are using Ubuntu 16.04, download Gazebo 7
 ```
 sudo apt-get install gazebo7 libgazebo7-*
 ```
-Or else if you are using Ubuntu 20.04, download Gazebo 9
+Or else if you are using Ubuntu 18.04, download Gazebo 9
 ```
 sudo apt-get install gazebo9 libgazebo9-*
 ```
