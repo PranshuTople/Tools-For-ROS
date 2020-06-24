@@ -1,5 +1,8 @@
 # Tools-For-ROS
-10 THINGS TO DO BEFORE STARTING WITH ROS | Setting Up Ubuntu with Useful Tools for ROS Installation
+10 THINGS TO DO BEFORE STARTING WITH ROS | Setting Up Ubuntu with Useful Tools for ROS Installation<br>
+
+Check out the full video by clicking on the image:<br>
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/CPDDBVeIyLw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAR9-bPtCY6TgA1M1XWzhAZm7oyEg)](https://youtu.be/CPDDBVeIyLw)
 
 ### Updating & Upgrading Ubuntu
 ```
