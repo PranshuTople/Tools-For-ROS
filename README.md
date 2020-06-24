@@ -4,6 +4,8 @@
 Check out the full video by clicking on the image:<br>
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/CPDDBVeIyLw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAR9-bPtCY6TgA1M1XWzhAZm7oyEg)](https://youtu.be/CPDDBVeIyLw)
 
+If you find these steps useful, please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂
+
 ### Updating & Upgrading Ubuntu
 ```
 sudo apt-get update && sudo apt-get upgrade
@@ -64,3 +66,8 @@ sudo ./install.sh
 ```
 sudo apt-get install git
 ```
+
+
+If you have reached till here and found these steps helpful,<br>
+please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂<br>
+This will help me make more such useful tutorials for you. Thank You!
